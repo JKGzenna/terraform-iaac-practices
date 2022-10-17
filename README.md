@@ -1,6 +1,6 @@
 # Terraform: Infraestructura como Código (IaaC)
 
-> **Este repositorio contiene el material de soporte y ejercicios del curso [_Terraform: Infraestructura como código_] by JKGzenna
+> ***Este repositorio contiene el material de soporte y ejercicios del curso [_Terraform: Infraestructura como código_] by JKGzenna
 
 ## Índice de Contenidos
 
